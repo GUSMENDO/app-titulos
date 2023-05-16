@@ -2,7 +2,7 @@
 
 This is a web application for creating rules for data processing. The rules are created based on templates and can be customized with exceptions.
 
-![Layout de la aplicación](app_engine/assets/imgs/app_layout.png)
+![Layout de la aplicación](app-titulos/assets/imgs/app_layout.png)
 
 ## Technologies Used
 The app was built with the following technologies:
